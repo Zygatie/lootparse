@@ -8,3 +8,6 @@ Run, press 'Choose File,' select the Fleetlog you want to parse from C:/Users/Yo
 &nbsp;&nbsp;&nbsp;&nbsp;To the teacher: you have sample data sets in the .zip which has been turned in
 
 That's about it, not much more to explain
+
+
+<b>The FinalProject.zip is also uploaded here, as Canvas says my file type is unsupported, despite allowing it to upload and submit.</b>
